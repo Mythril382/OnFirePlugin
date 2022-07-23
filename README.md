@@ -1,15 +1,11 @@
-### Setup
+### On Fire Plugin
 
-Clone this repository first.
-To edit the plugin display name and other data, take a look at `plugin.json`.
-Edit the name of the project itself by going into `settings.gradle`.
+This is my first plugin.
 
 ### Basic Usage
 
-See `src/example/ExamplePlugin.java` for some basic commands and event handlers.  
-Every main plugin class must extend `Plugin`. Make sure that `plugin.json` points to the correct main plugin class.
-
-Please note that the plugin system is in beta, and as such is subject to changes.
+Run "/startfire" to start setting players on fire.
+Run "/stopfire" to stop setting players on fire.
 
 ### Building a Jar
 
