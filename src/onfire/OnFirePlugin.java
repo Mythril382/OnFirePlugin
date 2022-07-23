@@ -17,7 +17,7 @@ public class OnFirePlugin extends Plugin{
     public void init(){
         Events.run(Trigger.update, () -> {
             if(fire){
-                Groups.player.each(p -> Fires.create(world.tile(World.conv(p.unit().x), World.conv(p.unit().y))));
+                Groups.player.each(p -> Fires.create(world.tile((int)World.conv(p.unit().x), (int)World.conv(p.unit().y))));
             }
         });
     }
