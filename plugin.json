@@ -3,5 +3,5 @@
   "author": "Mythril",
   "main": "onfire.OnFirePlugin",
   "description": "Adds commands to set players on fire. May or may not lag if there are many players.",
-  "version": 1.0.0
+  "version": 1.0
 }
