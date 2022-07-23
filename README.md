@@ -1,6 +1,8 @@
 ### On Fire Plugin
 
 This is my first plugin.
+May or may not lag!
+Requires bleeding edge versions.
 
 ### Basic Usage
 
