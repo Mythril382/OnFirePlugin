@@ -4,8 +4,8 @@ This is my first plugin.
 
 ### Basic Usage
 
-Run "/startfire" to start setting players on fire.
-Run "/stopfire" to stop setting players on fire.
+Run the `startfire` command to start setting players on fire.
+Run the `stopfire` command to stop setting players on fire.
 
 ### Building a Jar
 
