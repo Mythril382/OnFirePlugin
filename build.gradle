@@ -16,12 +16,12 @@ repositories{
 
 ext{
     //the build number that this plugin is made for
-    mindustryVersion = 'v137'
+    mindustryVersion = 'v136'
 }
 
 dependencies{
-    compileOnly "com.github.Anuken.Arc:arc-core:master-SNAPSHOT"
-    compileOnly "com.github.Anuken.MindustryJitpack:core:3ca3dc47b2"
+    compileOnly "com.github.Anuken.Arc:arc-core:v136"
+    compileOnly "com.github.Anuken.MindustryJitpack:core:v136"
 }
 
 jar{
